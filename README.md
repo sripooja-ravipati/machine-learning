@@ -1,2 +1,2 @@
 # machine-learning
-my works
+Uploading the codes that I have made while practicing using the video tutorials
